@@ -12,3 +12,7 @@ This repository contains a set of Python scripts that were utilized to generate 
 - `reviews.py`: This script handles the extraction and processing of user reviews. It compiles ratings, textual feedback, and timestamps, providing context to the user-business interactions.
 
 - `extracted_data.json`: This is the final output file containing the merged and processed data from the above scripts. The JSON format allows for easy integration and manipulation for further analysis or application use.
+
+- `imdb.test.txt.ss`: Contains the testing subset of the IMDB dataset, used for evaluating the performance of sentiment analysis models.
+
+- `imdb.train.txt.ss`: Contains the training subset of the IMDB dataset, used for training sentiment analysis models.
